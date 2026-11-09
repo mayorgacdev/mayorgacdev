@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Paulo Jirón — Software &amp; product</title>
+  <desc id="desc">From idea to working software. .NET, web and mobile. Managua, Nicaragua. vulcanobyte.com.</desc>
+  <rect width="1200" height="330" rx="16" fill="#0C0C0B"/>
+  <rect x="0.5" y="0.5" width="1199" height="329" rx="15.5" stroke="#292622"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="52" y="55" fill="#B9B6AF" font-size="13" letter-spacing="2.4">PAULO JIRÓN</text>
+    <path d="M195 50H230" stroke="#64605A"/>
+    <text x="247" y="55" fill="#B9B6AF" font-size="13" letter-spacing="2.4">SOFTWARE &amp; PRODUCT</text>
+    <text x="49" y="132" fill="#F3F1EB" font-size="58" font-weight="700" letter-spacing="-2">From idea to</text>
+    <text x="49" y="195" fill="#EDAB66" font-size="58" font-weight="700" letter-spacing="-2">working software.</text>
+    <text x="53" y="239" fill="#C5C1B9" font-size="17">.NET · Web · Mobile</text>
+    <path d="M52 267H1148" stroke="#302C26"/>
+    <text x="52" y="299" fill="#B9B6AF" font-size="13">Managua, Nicaragua</text>
+    <text x="1148" y="299" fill="#EDAB66" font-size="13" text-anchor="end">vulcanobyte.com ↗</text>
+    <text x="1135" y="183" fill="#EDAB66" font-size="104" font-weight="700" text-anchor="end" letter-spacing="-7">paulo.</text>
+  </g>
+</svg>
